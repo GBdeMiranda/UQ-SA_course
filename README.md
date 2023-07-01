@@ -17,17 +17,17 @@ Sensitivity Analysis is the process of quantifying the effect of input parameter
 
 #### Application examples
 1. UNCERTAINTY QUANTIFICATION
-    01. Monte Carlo simulation for estimating the value of π <!-- Hello World of Uncertainty Quantification! -->
+    01. **Monte Carlo Simulation** for estimating π: Hello World of Uncertainty Quantification!
     02. 
-    03. Logistic Growth
-    04. Prey-predator Model
-    05. Mass-Spring Mechanical System
+    03. **Logistic Growth**
+    04. **Prey-predator Model**
+    05. **Mass-Spring Mechanical System**
 
 2. SENSITIVITY ANALYSIS
-    01. Ishigami Function: Hello World of Sensitivity Analysis!
-    02. Damped Harmonic Oscillator: Time Dependent Sensitivity Analysis.
-    03. RLC Circuits: Analyzing different QoIs.
-    04. Lorenz System: Chaos and Sensitivity Analysis over different sets of parameters.
-    05. SIR Model: Sensitivity Analysis as a tool for model improvement/selection.
+    01. **Ishigami Function**: Hello World of Sensitivity Analysis!
+    02. **Damped Harmonic Oscillator**: Time Dependent Sensitivity Analysis.
+    03. **RLC Circuits**: Analyzing different QoIs.
+    04. **Lorenz System**: Chaos and Sensitivity Analysis over different sets of parameters.
+    05. **SIR Model**: Sensitivity Analysis as a tool for model improvement/selection.
     <!-- 0_. Black-Scholes Model Sensitivity Analysis over a random response. -->
     <!-- 0_. Beeler-Reuter Model Sensitivity Analysis in a Complex Model -->
