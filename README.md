@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/639568031.svg)](https://zenodo.org/doi/10.5281/zenodo.10194520)
+
 # Uncertainty Quantification (UQ) and Sensitivity Analysis (SA) Course
 
 Supplementary material for the introductory course on Uncertainty Quantification (UQ) and Sensitivity Analysis (SA)
